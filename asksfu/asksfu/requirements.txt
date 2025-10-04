@@ -1,0 +1,11 @@
+openai==1.*
+requests
+beautifulsoup4
+lxml
+faiss-cpu
+tiktoken
+python-dotenv
+tqdm
+fastapi
+uvicorn
+python-multipart
